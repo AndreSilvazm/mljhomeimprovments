@@ -1,0 +1,40 @@
+.MainAboutUsContainer{
+
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 2.5em;
+    background-image: url('../../../assets/Silver.jpg');
+    background-attachment: fixed;
+    border-top: solid 2px white;
+}
+
+.AboutUsArticle{
+
+    width: 70%;
+    color: black;
+    margin: auto;
+}
+
+.AboutUsArticle h1{
+
+    font-size: 2.4em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+.AboutUsArticle p{
+
+    font-family: "Poppins";
+    line-height: 2.2em;
+    margin-bottom: 2em;
+
+}
+
+.AboutUsArticle a{
+
+    border-bottom: solid 1px black;
+}
